@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikita Khairnar
-- 👀 I’m interested in programming,web development,android development
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on open source project related to android development using kotlin language and web development
+- 👀 I’m interested in programming, web development, android development
+- 🌱 I’m currently working as a UI developer, and I'm building a project using Next.js, React, and Material UI.
+- 💞️ I’m looking to collaborate on open source project related to web development
 - 📫 How to reach me?   https://www.linkedin.com/in/nikita-khairnar-a875421a1/\
 
 <!---
